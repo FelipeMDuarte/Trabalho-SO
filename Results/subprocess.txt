@@ -1,0 +1,83 @@
+N = 3
+
+The code took 1.440048e-03 seconds
+
+The code took 1.586199e-03 seconds
+
+The code took 1.623154e-03 seconds
+
+The code took 1.594067e-03 seconds
+
+The code took 1.400948e-03 seconds
+
+1.529 ms
+
+N = 10
+
+The code took 4.602909e-03 seconds
+
+The code took 5.073071e-03 seconds
+
+The code took 4.724979e-03 seconds
+
+The code took 5.125046e-03 seconds
+
+The code took 5.043983e-03 seconds
+
+4.914 ms
+
+N = 50
+
+The code took 2.828789e-02 seconds
+
+The code took 2.789211e-02 seconds
+
+The code took 2.582312e-02 seconds
+
+The code took 2.866197e-02 seconds
+
+The code took 2.719808e-02 seconds
+
+27.57 ms
+
+N = 100
+
+The code took 7.568192e-02 seconds
+
+The code took 7.703900e-02 seconds
+
+The code took 7.167196e-02 seconds
+
+The code took 7.276702e-02 seconds
+
+The code took 7.281399e-02 seconds
+
+73.99 ms
+
+N = 200
+
+The code took 2.275372e-01 seconds
+
+The code took 2.089410e-01 seconds
+
+The code took 2.228870e-01 seconds
+
+The code took 2.283659e-01 seconds
+
+The code took 2.626550e-01 seconds
+
+230.0 ms
+
+N = 500
+
+The code took 1.243312e+00 seconds
+
+The code took 1.176538e+00 seconds
+
+The code took 1.299877e+00 seconds
+
+The code took 1.327606e+00 seconds
+
+The code took 1.212772e+00 seconds
+
+1252 ms
